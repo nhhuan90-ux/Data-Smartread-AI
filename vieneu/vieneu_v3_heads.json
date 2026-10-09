@@ -1,0 +1,1 @@
+{"text_emb":{"offset":0,"shape":[419,768]},"audio_emb":{"offset":321792,"shape":[16,1024,768]},"xvec_w":{"offset":12904704,"shape":[768,192]},"xvec_b":{"offset":13052160,"shape":[768]},"xvec_ln_w":{"offset":13052928,"shape":[768]},"xvec_ln_b":{"offset":13053696,"shape":[768]},"xvec_ln_eps":{"offset":13054464,"shape":[]}}
